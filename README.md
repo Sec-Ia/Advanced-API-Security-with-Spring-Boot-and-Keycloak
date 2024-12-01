@@ -4,7 +4,7 @@ This project demonstrates how to integrate Keycloak with Spring Boot to secure A
 
 # Fonctionnalités
 
--Authentication and authorization using Keycloak.
--Role-based access control (RBAC).
--Token-based security for API endpoints.
--Integration with Docker for simplified deployment.
+-  Authentication and authorization using Keycloak.
+-  Role-based access control (RBAC).
+-  Token-based security for API endpoints.
+-  Integration with Docker for simplified deployment.
